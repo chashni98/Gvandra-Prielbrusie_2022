@@ -1,0 +1,36 @@
+.wt{color:#ffffff; font-family:verdana,sans-serif; font-size:8pt;}
+.bt{color:#000000; font-family:verdana,sans-serif; font-size:9pt;}
+.author{font-size:7pt;font-style:italic;}
+.author2{font-size:7pt;}
+.date{font-size:7pt;; color: #000000}
+.bt8{font-family:"MS Sans Serif";font-size:8pt;}
+
+h2{color:#000000; font-family:verdana,sans-serif; font-size:11pt; margin:0;}
+h3{color:#FFA600; font-family:verdana,sans-serif; font-size:10pt; margin:0;}
+h4{color:#A1B5E5; font-family:verdana,sans-serif; font-size:10pt; margin:0;}
+h4.dark{color:#3A59A1; font-family:verdana,sans-serif; font-size:10pt; margin:0;}
+h5{color:#A1B5E5; font-family:verdana,sans-serif; font-size:8pt; margin:0;}
+
+.h2{color:#000000; font-family:verdana,sans-serif; font-size:11pt; margin:0;}
+.h3{color:#FFA600; font-family:verdana,sans-serif; font-size:10pt; margin:0;}
+.h4{color:#A1B5E5; font-family:verdana,sans-serif; font-size:10pt; margin:0;}
+.h4.dark{color:#3A59A1; font-family:verdana,sans-serif; font-size:10pt; margin:0;}
+.h5{color:#A1B5E5; font-family:verdana,sans-serif; font-size:8pt; margin:0;}
+.h5-red{color:#FF0000; font-family:verdana,sans-serif; font-size:8pt; margin:0;}
+.h6{ color:#A1B5E5; font-family:verdana, sans-serif; font-size:18pt; font-weight:bold; margin:0;}
+
+address{color:#ffffff;font-style:normal; font: 8pt verdana,sans-serif;margin:5pt}
+
+a.menu{color:#A1B5E5; font-family:verdana,sans-serif; font-size:8pt; font-weight:bold; text-decoration:none;}
+a.menu:hover{color:#ffffff;}
+a.menu2{color:#A1B5E5; font-family:verdana,sans-serif; font-size:10pt; font-weight:bold; text-decoration:none;}
+a.menu2:hover{color:#ffffff;}
+a.menu3{color:#3A59A1; font-family:verdana,sans-serif; font-size:10pt; font-weight:bold; text-decoration:none;}
+a.menu3:hover{color:#ffffff;}
+a.small{color:#A1B5E5; font-family:verdana,sans-serif; font-size:7pt; font-weight:bold; text-decoration:none;}
+a.author2{color:#3A59A1;text-decoration:none;}
+a.address{font-weight:bold;color:#ffffff;text-decoration:none;}
+a.menu4 { color:#FFFFFF; font-family:verdana, sans-serif; font-size:10pt; font-weight:bold; text-decoration:none; }
+a.menu4:hover { color:#A1B5E5; }
+
+.guidetext {color:#000000; font-style:normal; font: 8pt verdana,sans-serif; margin:5pt}
