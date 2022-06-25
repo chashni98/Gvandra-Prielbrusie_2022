@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-06-25T12:14:26.598Z</time>
+	</metadata>
+	<wpt lat="43.222814" lon="42.107701">
+		<name>005</name>
+	</wpt>
+	<wpt lat="43.340552" lon="42.286573">
+		<name>мн</name>
+	</wpt>
+	<wpt lat="43.346539" lon="42.298739">
+		<name>тешикауш</name>
+	</wpt>
+	<wpt lat="43.360207" lon="42.324059">
+		<name>013</name>
+	</wpt>
+	<wpt lat="43.406728" lon="42.494047">
+		<name>014</name>
+	</wpt>
+	<wpt lat="43.339501" lon="42.279298">
+		<name>мн?</name>
+	</wpt>
+</gpx>

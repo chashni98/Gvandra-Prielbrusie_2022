@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-06-25T12:14:33.000Z</time>
+	</metadata>
+	<trk>
+		<name>на джикаугенкез план by expbat</name>
+		<trkseg>
+			<trkpt lat="43.380592" lon="42.538872"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.378639" lon="42.538035"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.376858" lon="42.534816"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.375099" lon="42.532542"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.373854" lon="42.529538"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.373447" lon="42.529302"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.372588" lon="42.528637"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.370056" lon="42.524731"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.364885" lon="42.522414"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.362632" lon="42.519431"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.361194" lon="42.518959"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.361001" lon="42.519045"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.360958" lon="42.519195"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.360143" lon="42.520397"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.357010" lon="42.528937"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.355293" lon="42.533486"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.355701" lon="42.542541"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.355744" lon="42.547734"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.356817" lon="42.554257"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.356259" lon="42.555545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
