@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:51:42.729Z</time>
+	</metadata>
+	<wpt lat="43.322871" lon="42.571874">
+		<name>НОРМСТ</name>
+	</wpt>
+	<wpt lat="43.319781" lon="42.576058">
+		<name>НОРМСТ</name>
+	</wpt>
+	<wpt lat="43.264570" lon="42.636268">
+		<name>ОБЕД</name>
+	</wpt>
+	<wpt lat="43.257060" lon="42.644015">
+		<name>МАГАЗИН</name>
+	</wpt>
+</gpx>

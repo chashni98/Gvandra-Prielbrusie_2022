@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:52:00.052Z</time>
+	</metadata>
+	<wpt lat="43.288667" lon="42.069721">
+		<name>ВЫШЛИНАТРОПУ</name>
+	</wpt>
+	<wpt lat="43.286264" lon="42.100470">
+		<name>НОЧЕВКА</name>
+	</wpt>
+</gpx>

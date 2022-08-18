@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:51:55.010Z</time>
+	</metadata>
+	<wpt lat="43.327570" lon="41.953271">
+		<name>МЕСТА ДЛЯ СТОЯНКИ</name>
+	</wpt>
+	<wpt lat="43.325210" lon="41.952262">
+		<name>МЕСТА ДЛЯ СТОЯНКИ</name>
+	</wpt>
+	<wpt lat="43.319845" lon="41.957369">
+		<name>УЛЛУКЁЛЬНЕНКТУР</name>
+	</wpt>
+	<wpt lat="43.311520" lon="41.959772">
+		<name>БРОД</name>
+	</wpt>
+	<wpt lat="43.312807" lon="41.986873">
+		<name>МОСТ</name>
+	</wpt>
+	<wpt lat="43.319287" lon="41.999941">
+		<name>ГЛОБУСТБ</name>
+	</wpt>
+	<wpt lat="43.301456" lon="42.011657">
+		<name>МОСТ</name>
+	</wpt>
+	<wpt lat="43.304997" lon="42.025004">
+		<name>МОСТ</name>
+	</wpt>
+	<wpt lat="43.303023" lon="42.032020">
+		<name>НОЧЕВКА</name>
+	</wpt>
+</gpx>

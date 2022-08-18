@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:51:27.092Z</time>
+	</metadata>
+	<wpt lat="43.433893" lon="42.526856">
+		<name>БРОД</name>
+	</wpt>
+	<wpt lat="43.433528" lon="42.533744">
+		<name>БРОД</name>
+	</wpt>
+	<wpt lat="43.439450" lon="42.554536">
+		<name>ОБЕД</name>
+	</wpt>
+	<wpt lat="43.428443" lon="42.587087">
+		<name>ТУР</name>
+	</wpt>
+	<wpt lat="43.421319" lon="42.595778">
+		<name>НОЧЕВКА</name>
+	</wpt>
+</gpx>

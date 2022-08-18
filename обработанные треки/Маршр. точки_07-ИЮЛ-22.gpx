@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:51:19.322Z</time>
+	</metadata>
+	<wpt lat="43.366494" lon="42.351375">
+		<name>КОЛЬЦТУР</name>
+	</wpt>
+	<wpt lat="43.367653" lon="42.343049">
+		<name>ОЗЁРНТУР</name>
+	</wpt>
+	<wpt lat="43.378511" lon="42.341676">
+		<name>ВЕРШ3533</name>
+	</wpt>
+	<wpt lat="43.401814" lon="42.355259">
+		<name>ОБЕД</name>
+	</wpt>
+	<wpt lat="43.400934" lon="42.358413">
+		<name>НОЧЕВКА</name>
+	</wpt>
+</gpx>

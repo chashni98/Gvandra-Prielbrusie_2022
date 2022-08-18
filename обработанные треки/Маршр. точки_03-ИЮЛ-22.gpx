@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:50:51.724Z</time>
+	</metadata>
+	<wpt lat="43.244057" lon="42.219303">
+		<name>КИЦКМАЛТУР</name>
+	</wpt>
+	<wpt lat="43.253627" lon="42.240417">
+		<name>ОБЕД</name>
+	</wpt>
+	<wpt lat="43.262983" lon="42.248399">
+		<name>ВЫШЛИНАТРОПУ</name>
+	</wpt>
+	<wpt lat="43.275514" lon="42.254729">
+		<name>НОРМСТ</name>
+	</wpt>
+	<wpt lat="43.283625" lon="42.253292">
+		<name>НОРМСТ</name>
+	</wpt>
+	<wpt lat="43.330810" lon="42.247434">
+		<name>НОЧЕВКА</name>
+	</wpt>
+</gpx>

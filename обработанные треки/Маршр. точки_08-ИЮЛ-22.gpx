@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-08-17T19:51:23.492Z</time>
+	</metadata>
+	<wpt lat="43.398895" lon="42.383196">
+		<name>ВОЗМОЖНЫЕ СТОЯНКИ</name>
+	</wpt>
+	<wpt lat="43.395655" lon="42.412465">
+		<name>НОРМ СТОЯНКИ</name>
+	</wpt>
+	<wpt lat="43.412242" lon="42.422636">
+		<name>РУЧЕЙ</name>
+	</wpt>
+	<wpt lat="43.421426" lon="42.434952">
+		<name>ПЕРЕПРАВА</name>
+	</wpt>
+	<wpt lat="43.422756" lon="42.438858">
+		<name>ВОЗМСТ</name>
+	</wpt>
+	<wpt lat="43.433099" lon="42.513359">
+		<name>БРОД</name>
+	</wpt>
+	<wpt lat="43.430245" lon="42.512672">
+		<name>НОЧЕВКА</name>
+	</wpt>
+</gpx>
